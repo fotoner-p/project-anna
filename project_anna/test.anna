@@ -1,0 +1,27 @@
+ENTER -> PLEASURE;
+//ahjsdfkjdsahf
+/*
+asdfsadfsadf
+*/
+
+int global_num = 1000;
+
+func fotone(int par){
+    int num = par;
+
+    return;
+}
+
+func main(int argc, string argv[]){
+    vivid rabbit = "anna";
+    lily string str = "yuriko";
+    rabbit++;
+    int bandai = 1234;
+    
+    fotone(bandai);
+
+    float namco = +13.e10;
+    rabbit = rabbit + str;
+
+    return;
+}
